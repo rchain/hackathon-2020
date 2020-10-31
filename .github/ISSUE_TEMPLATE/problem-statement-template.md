@@ -8,10 +8,10 @@ assignees: ''
 
 ---
 
-**Description: **
+**Description:**
 
 
-**Motivation/Impact/Importance: **
+**Motivation/Impact/Importance:**
 
 
 **Completion/Success Criteria:**
