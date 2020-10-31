@@ -2,7 +2,7 @@
 name: Problem Statement template
 about: Please use this to describe problem statements for the Hackathon. Look at https://github.com/rchain/hackathon-2020/issues/18
   for an example
-title: "[PS]"
+title: ""
 labels: Problem Statement
 assignees: ''
 
