@@ -33,7 +33,7 @@ assignees: ''
 
 
 
-**Judgement criteria:**
+**Judgment criteria:**
 
 
 
